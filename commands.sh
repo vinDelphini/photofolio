@@ -20,7 +20,7 @@ WantedBy=multi-user.target
 
 server {
     listen 80;
-    server_name 13.58.104.201;
+    server_name 18.222.118.225;
 
     location = /favicon.ico { access_log off; log_not_found off; }
     
